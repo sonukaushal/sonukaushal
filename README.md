@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @sonukaushal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Introduction
 
-<!---
-sonukaushal/sonukaushal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a Developer!
+
+-   🔭 I’m currently working at [Classic Informatics](https://www.classicinformatics.com/)!
+-   🌱 I’m currently learning everything 🤣
+-   👯 I’m looking to collaborate with other content creators
+-   ⚡ Fun fact: I love to play PC games.
+
+### :zap: Education
+
+#### Bachelor Of Computer Science Engineering - July 2015.
+
+Rayat Bahra Institute, Hoshiarpur, Punjab, India
+
+### :zap: Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Boyrock75)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/boyrock75)
+
+<br />
