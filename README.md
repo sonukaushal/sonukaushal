@@ -2,7 +2,6 @@
 
 #### I'm a Developer!
 
--   🔭 I’m currently working at [Classic Informatics](https://www.classicinformatics.com/)!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   ⚡ Fun fact: I love to play PC games.
